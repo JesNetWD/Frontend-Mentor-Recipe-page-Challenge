@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Outfit Thin";
+  src: url("./Outfit-VariableFont_wght.ttf") format("ttf");
+}
+@font-face {
+  font-family: "Young Serif";
+  src: url("./YoungSerif-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 40px;
+  font-family: Outfit;
+  font-size: 16px;
+  line-height: 1.5em;
+  color: #5f574e;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+div {
+  padding: 16px 0;
+}
+
+#title {
+  color: #302d2c;
+  padding: 4px 0px;
+  font-size: 250%;
+}
+
+#prep {
+  background-color: #fff5fa;
+  padding: 5px 30px;
+  border-radius: 10px;
+}
+
+#prep h2 {
+  font-size: 120%;
+  color: #7b284f;
+}
+
+ul {
+  padding: 4px 25px;
+}
+
+li {
+  padding: 0px 15px 6px;
+}
+
+#marker {
+  padding-bottom: -2px;
+}
+
+#marker li::marker {
+  color: #854632;
+  font-size: smaller;
+}
+
+#prep li::marker {
+  color: #7b284f;
+  font-size: smaller;
+}
+
+#numeral li::marker {
+  color: #854632;
+  font-weight: 700;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.font {
+  font-family: "Young Serif";
+  font-weight: 550;
+  font-size: 175%;
+}
+
+.brown {
+  color: #854632;
+}
+
+.divider {
+  border-bottom: 0.5px solid #e4ded8;
+}
+
+.label {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 10px 30px;
+}
+
+.label-no {
+  width: 50%;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
