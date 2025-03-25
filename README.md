@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JesNetWD/Frontend-Mentor-Recipe-page-Challenge)
+- Solution URL: [Repository code](https://github.com/JesNetWD/Frontend-Mentor-Recipe-page-Challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -118,13 +118,10 @@ To see how you can add code snippets, see below:
   width: 50%;
 }
 ```
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-I think i will like to focus a bit more on writing cleaner code. i felt my code was a little disorganized especially the code for styling the layout. I would like to improve on layout and flexbox.
+I think i will like to focus a bit more on writing cleaner code. I felt my code was a little disorganized especially the code for styling the layout. I would like to improve on layout and flexbox.
 
 ### Useful resources
 
