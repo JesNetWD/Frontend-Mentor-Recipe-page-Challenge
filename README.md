@@ -39,7 +39,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 I learnt how to change the color of the marker of list items. it was the first i had come across such a thing. 
 I also learnt how to use the @font-face property for fonts that are not installed on my system. 
 I had learnt it before but it was my first time applying it.
-I also used flexbox in the nutrition section of my code it took me a while before i was able to fiigure out how to do it properly.
+I also used flexbox in the nutrition section of my code it took me a while before i was able to figure out how to do it properly.
 
 To see how you can add code snippets, see below:
 
